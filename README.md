@@ -1,4 +1,4 @@
-# Hi there, I'm fubsi! �
+# Hi there, I'm fubsi! 😼
 
 ## About Me
 🔭 I'm currently studying the world of **Artificial Intelligence** and exploring cutting-edge technologies  
