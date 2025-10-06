@@ -17,7 +17,7 @@ You can find me on my [![Discord](https://img.shields.io/badge/Discord-Profile-b
 
 
 # 📊 GitHub Stats:
-![](https://github-contributor-stats.vercel.app/api?username=fubsi&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=fubsi&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fubsi&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=fubsi&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=fubsi&theme=blue_navy&hide_border=false)
 
 ## 📁 Featured Projects
